@@ -4,3 +4,5 @@
 >
 
 **WRITEUP**
+
+![File type](https://i.imgur.com/5M8d4AM.png)
