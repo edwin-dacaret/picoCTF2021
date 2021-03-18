@@ -6,7 +6,7 @@
 **WRITEUP**
 
 Just like the challenge description suggest, we ca run a python script and then uses a password to get the flag.
-The challenge provides 3 files. "ende.py",the python script, "pw.txt", what I presumed correctly was a .txt file with the password to use and "flag.txt.en", being the flag.
+The challenge provides 3 files. "ende.py",the python script, "pw.txt", what I presumed correctly was a .txt file with the password to use, and "flag.txt.en", being the flag.
 Taking a look in the script, I note a "import from cryptography.fernet" which confirm my suspicion about the flag ends in ".en" is a encrypted file.
 By keep reading the ".py" I saw the instructions to decrypt and encryt files and that the script efectvely will ask for a password. 
 
