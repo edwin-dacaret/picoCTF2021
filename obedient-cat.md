@@ -5,7 +5,7 @@
 
 **WRITEUP**
 
-The challenge provides a file called "flag". And just like we know CAT is a very common command to read files and do a lot of more things.
+The challenge provides a file called "flag". And just like we know [CAT](https://en.wikipedia.org/wiki/Cat_(Unix)) is a very common unix command to read files and do a lot of more things.
 So running CAT to read the file we catch the flag.
 
 ![File type](https://i.imgur.com/45Akfeq.png)
