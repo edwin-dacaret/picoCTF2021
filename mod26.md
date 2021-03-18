@@ -5,7 +5,7 @@
 
 **WRITEUP**
 
-The challenge provides a cipertext and ask if we know what is a ROT13. Besides, gives a hint saying we can decrypt online.
+The challenge provides a ciphertext and ask if we know what is a ROT13. Besides, gives a hint saying we can decrypt it online.
 So looking for "ROT13 decryp" on a search engine we find [cryptii.com](https://cryptii.com/pipes/rot13-decoder) who provides a online tool to make it.
 
 ![File type](https://i.imgur.com/IdDnxBB.png)
