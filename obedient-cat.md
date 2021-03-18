@@ -1,6 +1,6 @@
 # PicoCTF 2021 - Challenge Obedient Cat
 > 
->![File type]([img]https://i.imgur.com/JCd4XCm.png)
+>![File type](https://i.imgur.com/JCd4XCm.png)
 >
 
 **WRITEUP**
