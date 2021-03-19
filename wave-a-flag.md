@@ -13,4 +13,4 @@ Downloading the file and giving execute permission...
 
 We can run it, follow the instructions and get the flag.
 
-![File type](https://i.imgur.com/gcyUUWb.png)
+![File type](https://i.imgur.com/z72fN4R.png)
