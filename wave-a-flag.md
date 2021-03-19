@@ -1,6 +1,6 @@
 # PicoCTF 2021 - Wave a flag
 > 
->![File type](https://i.imgur.com/953qvdt.png)
+>![File type](https://i.imgur.com/TzkP4YW.png)
 >
 
 **WRITEUP**
