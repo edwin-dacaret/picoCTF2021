@@ -18,6 +18,6 @@ Check here the complete output:
 
 After find a ASCII Converter online, [dcode.fr](https://www.dcode.fr/ascii-code), deconding the output from netcat, we catch the flag.
 
-![File type]([img]https://i.imgur.com/6qfQBUp.png[/img])
+![File type]([https://i.imgur.com/6qfQBUp.png)
 
 
