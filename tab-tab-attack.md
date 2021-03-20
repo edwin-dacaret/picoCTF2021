@@ -6,7 +6,7 @@
 **WRITEUP**
 
 The challenge provides 1 ZIP file.
-After unzip the file,  I tried a CAT command on "static" file, just for take a look in that content.
+After unzip the file,  I tried a CAT command on "fang-of-haynekhtnamet" file, just for take a look in that content.
 And, boom, find there the flag. Between some disorder, but in plain text.
 
 ![File type](https://i.imgur.com/UcbWtW6.png)
