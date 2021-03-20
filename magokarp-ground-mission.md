@@ -9,9 +9,6 @@ This challenge  ask for launches an instance, when we push the button, the insta
 Making the connection following the instructions and providing the password, we fall down here:
 
 ![File type](https://i.imgur.com/jN7TC6X.png)
-
-Then, running the script and following the instructions to decrypt, then providing de password taken from "pw.txt", we catch the flag.
+Then, looking the contents of directories and files we find the flag divided in 3 parts, followed by instructions to find the nexts pieces.
 
 ![File type](https://i.imgur.com/Yy1DoB7.png)
-
-![File type]()
