@@ -5,14 +5,17 @@
 
 **WRITEUP**
 
-The challenge provides one file called "warm" and give to us a hint saying we can run the file on a linux terminal.
+The challenge show a command from netcat...
 
-Downloading the file and giving execute permission...
+![File type](https://i.imgur.com/02NN42m.png)
 
-![File type]()
+Complete output:
+112 105 99 111 67 84 70 123 103 48 48 100 95 107
+49 116 116 121 33 95 110 49 99 51 95 107 49 116 
+116 121 33 95 97 102 100 53 102 100 97 52 125 10 
 
-We can run it, follow the instructions and get the flag.
+After find a ASCII Converter online, [dcode.fr](https://www.dcode.fr/ascii-code), deconding the output from netcat, we catch the flag.
 
-![File type]()
+![File type]([img]https://i.imgur.com/6qfQBUp.png[/img])
 
-]
+
